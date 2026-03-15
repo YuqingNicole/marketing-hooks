@@ -5,11 +5,11 @@ Real-world examples of the Puzzle-Driven Model in action.
 ## WoW-Type Examples (Extreme Cases)
 
 ### Example 1: Age + Income Contrast
-**Hook:** "00后用 AI 月入10万"
+**Hook:** "Gen-Z makes $100K/month with AI"
 
 **Why it works:**
-- Extreme age (00后 = very young)
-- Extreme income (10万/month)
+- Extreme age (Gen-Z = very young)
+- Extreme income ($100K/month)
 - Low probability combination
 - Creates puzzle: "How is this possible?"
 
@@ -20,11 +20,11 @@ Real-world examples of the Puzzle-Driven Model in action.
 - Leaves: Screenshots of income, tool demos, timeline
 
 ### Example 2: Time + Scale Contrast
-**Hook:** "3天��粉10万的秘密"
+**Hook:** "10K followers in 3 days - the secret"
 
 **Why it works:**
 - Extreme timeline (3 days)
-- Extreme result (100K followers)
+- Extreme result (10K followers)
 - Defies normal growth rates
 - Creates puzzle: "What's the secret?"
 
@@ -35,7 +35,7 @@ Real-world examples of the Puzzle-Driven Model in action.
 - Leaves: Analytics screenshots, viral post examples
 
 ### Example 3: Replacement Narrative
-**Hook:** "我用一个工具替代了整个团队"
+**Hook:** "I replaced my entire team with one tool"
 
 **Why it works:**
 - Extreme efficiency (1 tool vs. entire team)
@@ -51,7 +51,7 @@ Real-world examples of the Puzzle-Driven Model in action.
 ## How-Type Examples (Method)
 
 ### Example 4: Numbered Method
-**Hook:** "5个 AI 工具，帮你提效10倍"
+**Hook:** "5 AI tools for 10x efficiency"
 
 **Why it works:**
 - Specific number (5 tools)
@@ -66,11 +66,11 @@ Real-world examples of the Puzzle-Driven Model in action.
 - Leaves: Demo videos, before/after comparisons, time saved metrics
 
 ### Example 5: Time-Bound Tutorial
-**Hook:** "10分钟 Claude Code 小白入门"
+**Hook:** "Learn Claude Code in 10 minutes - beginner's guide"
 
 **Why it works:**
 - Low time commitment (10 minutes)
-- Beginner-friendly (小白)
+- Beginner-friendly
 - Specific tool (Claude Code)
 - Creates puzzle: "Can I really learn it that fast?"
 
@@ -83,7 +83,7 @@ Real-world examples of the Puzzle-Driven Model in action.
 ## Why-Type Examples (Reason)
 
 ### Example 6: Failure Analysis
-**Hook:** "为什么 90% 的人用 AI 工具都失败？"
+**Hook:** "Why 90% of people fail with AI tools"
 
 **Why it works:**
 - High failure rate (90%)
@@ -98,7 +98,7 @@ Real-world examples of the Puzzle-Driven Model in action.
 - Leaves: Real user examples, success vs. failure comparison
 
 ### Example 7: Counterintuitive Insight
-**Hook:** "为什么顶级创作者不每天发帖？"
+**Hook:** "Why top creators don't post daily"
 
 **Why it works:**
 - Challenges common belief (daily posting = success)
@@ -114,7 +114,7 @@ Real-world examples of the Puzzle-Driven Model in action.
 ## What-Type Examples (Definition)
 
 ### Example 8: Concept Explainer
-**Hook:** "什么是 Product-Market Fit？为什么它比增长更重要？"
+**Hook:** "What is Product-Market Fit? Why it matters more than growth"
 
 **Why it works:**
 - Defines important concept
@@ -129,127 +129,127 @@ Real-world examples of the Puzzle-Driven Model in action.
 
 ## Platform-Specific Adaptations
 
-### 小红书 Video Script Template
+### Xiaohongshu Video Script Template
 
 **Opening (5-10s):**
 ```
 [WoW Hook]
-"你知道���？我用一个 AI 工具，3天完成了一个月的工作"
+"You know what? I used one AI tool to finish a month's work in 3 days"
 ```
 
 **Pain Point (10-15s):**
 ```
-"你是不是也每天加班到深夜，
-工作永远做不完，
-效率低到怀疑人生？"
+"Are you also working overtime every night,
+never finishing your work,
+doubting your efficiency?"
 ```
 
 **Solution (120-180s):**
 ```
-"今天教你3个技巧：
+"Today I'll teach you 3 techniques:
 
-技巧1：[具体方法 + 演示]
-技巧2：[具体方法 + 演示]
-技巧3：[具体方法 + 演示]"
+Technique 1: [specific method + demo]
+Technique 2: [specific method + demo]
+Technique 3: [specific method + demo]"
 ```
 
 **Results (20-30s):**
 ```
-"看，现在我每天只需要2小时，
-就能完成以前一天的工作量"
-[展示前后对比]
+"Look, now I only need 2 hours a day
+to finish what used to take me all day"
+[Show before/after comparison]
 ```
 
 **CTA (5-10s):**
 ```
-"关注我，持续分享 AI 效率工具
-点赞收藏，下次用得上"
+"Follow me for more AI efficiency tools
+Like and save for later"
 ```
 
 ### X (Twitter) Thread Template
 
 **Tweet 1 (Hook):**
 ```
-你知道为什么 90% 的人用 AI 工具都失败吗？
+Do you know why 90% of people fail with AI tools?
 
-我观察了100+用户，发现了3个致命错误
+I observed 100+ users and found 3 fatal mistakes
 
 🧵 Thread ↓
 ```
 
 **Tweet 2-4 (Reasoning + Evidence):**
 ```
-错误1：期望 AI 能读懂你的心思
+Mistake 1: Expecting AI to read your mind
 
-❌ 错误做法：给 AI 模糊指令
-✅ 正确做法：[具体例子]
+❌ Wrong approach: Give AI vague instructions
+✅ Right approach: [specific example]
 
-[截图/数据]
+[Screenshot/data]
 ```
 
 **Final Tweet (Conclusion + CTA):**
 ```
-总结：
+Summary:
 
-• 清晰指令 > 模糊期望
-• 迭代优化 > 一次完美
-• 工作流程 > 单点工具
+• Clear instructions > vague expectations
+• Iterative optimization > one-time perfection
+• Workflow > single-point tools
 
-关注 @你的账号，每周分享 AI 实战经验
+Follow @your_handle for weekly AI practical tips
 ```
 
 ### Newsletter Subject Line Templates
 
 **WoW-Type:**
 ```
-"我用 ChatGPT 写了一本书，3天卖了10万"
-"这个00后用 AI 替代了整个设计团队"
+"I wrote a book with ChatGPT and sold $100K in 3 days"
+"This Gen-Z replaced an entire design team with AI"
 ```
 
 **Why-Type:**
 ```
-"为什么顶级创作者都在用 AI，但从不说？"
-"为什么你的 AI 工具总是失败？（90%的人都犯这个错）"
+"Why top creators use AI but never talk about it"
+"Why your AI tools always fail (90% make this mistake)"
 ```
 
 **How-Type:**
 ```
-"如何用 AI 在30天内建立个人品牌"
-"5个 AI 工具，让你的工作效率提升10倍"
+"How to build a personal brand in 30 days with AI"
+"5 AI tools that 10x your work efficiency"
 ```
 
 ## Hook Amplification Techniques
 
 ### Technique 1: Add Extreme Numbers
-**Before:** "AI 工具提升效率"
-**After:** "AI 工具提效10倍"
+**Before:** "AI tools improve efficiency"
+**After:** "AI tools 10x your efficiency"
 
 ### Technique 2: Add Time Pressure
-**Before:** "学会 Claude Code"
-**After:** "10分钟学会 Claude Code"
+**Before:** "Learn Claude Code"
+**After:** "Learn Claude Code in 10 minutes"
 
 ### Technique 3: Add Contrast
-**Before:** "用 AI 做设计"
-**After:** "一个 AI 工具 vs. 整个设计团队"
+**Before:** "Use AI for design"
+**After:** "One AI tool vs. entire design team"
 
 ### Technique 4: Add Social Proof
-**Before:** "AI 赚钱方法"
-**After:** "00后用这个方法月入10万"
+**Before:** "AI money-making method"
+**After:** "Gen-Z uses this method to make $100K/month"
 
 ### Technique 5: Add Failure Narrative
-**Before:** "AI 工具使用技巧"
-**After:** "为什么90%的人用 AI 都失败？"
+**Before:** "AI tool usage tips"
+**After:** "Why 90% of people fail with AI tools"
 
 ## Anti-Patterns (What NOT to Do)
 
 ### ❌ Too Generic
-"AI 工具很好用" → No puzzle, no engagement
+"AI tools are useful" → No puzzle, no engagement
 
 ### ❌ Too Safe
-"OpenClaw 是个不错的工具" → No extreme case, no wow
+"OpenClaw is a decent tool" → No extreme case, no wow
 
 ### ❌ No Specificity
-"提升效率的方法" → No numbers, no concrete promise
+"Methods to improve efficiency" → No numbers, no concrete promise
 
 ### ❌ Missing Tree Structure
 Hook without reasoning/evidence → Clickbait without substance
@@ -261,10 +261,10 @@ Generic claims without vivid examples → Fails the "leaves" test
 
 Track these to validate your hooks:
 
-**小红书:**
+**Xiaohongshu:**
 - Click-through rate (CTR) on cover
 - Average watch time
-- Save rate (收藏率)
+- Save rate
 
 **X (Twitter):**
 - Engagement rate (likes + retweets + replies)

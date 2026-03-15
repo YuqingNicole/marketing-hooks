@@ -19,9 +19,9 @@ When your opening creates a puzzle, the audience's brain automatically tries to 
 **Pattern:** "How to [achieve desired outcome]?"
 
 **Examples:**
-- "如何快速成为有钱人？"
-- "从白牌到品牌？"
-- "怎么做独立站跨境电��？"
+- "How to become wealthy quickly?"
+- "From white-label to brand?"
+- "How to start cross-border e-commerce?"
 - "How to 10x your productivity with AI?"
 
 **Best for:** Tutorials, guides, practical content
@@ -30,7 +30,7 @@ When your opening creates a puzzle, the audience's brain automatically tries to 
 **Pattern:** "Why [surprising fact/outcome]?"
 
 **Examples:**
-- "为什么可以成为董事长？"
+- "Why did they become CEO?"
 - "Why 90% of AI tools fail?"
 - "Why top creators don't post daily?"
 
@@ -40,8 +40,8 @@ When your opening creates a puzzle, the audience's brain automatically tries to 
 **Pattern:** "What is [concept/term]?"
 
 **Examples:**
-- "什么是供给侧改革？"
-- "什么是 CPS？"
+- "What is supply-side reform?"
+- "What is CPS?"
 - "What is Product-Market Fit?"
 
 **Best for:** Educational content, explainers
@@ -49,16 +49,16 @@ When your opening creates a puzzle, the audience's brain automatically tries to 
 ### 4. WoW-Type (Extreme Case) ⭐ HIGHEST ENGAGEMENT
 **Pattern:** Create probability-defying extreme cases
 
-**Core insight:** WoW = 制造概率极低的极端案例
+**Core insight:** WoW = Manufacturing extremely low-probability extreme cases
 
 **Formula:**
 - **Discover extremes** → Get traffic
 - **Become extreme** → Build brand
 
 **Examples:**
-- "00后用 AI 月入10万"
-- "3天涨粉10万的秘密"
-- "我用一个工具替代了整个团队"
+- "Gen-Z makes $100K/month with AI"
+- "10K followers in 3 days - the secret"
+- "I replaced my entire team with one tool"
 - "This 19-year-old built a $1M business with ChatGPT"
 
 **Why it works:** Brain automatically fills in missing logic, creating engagement stickiness.
@@ -73,44 +73,44 @@ When your opening creates a puzzle, the audience's brain automatically tries to 
 Every piece of content should follow this hierarchy:
 
 ```
-问题 (Question) = 树根 (Root)
+Question (Root)
     ↓
-观点 (Viewpoint) = 树干 (Trunk)
+Viewpoint (Trunk)
     ↓
-理由 (Reasoning) = 树枝 (Branches)
+Reasoning (Branches)
     ↓
-证据 (Evidence) = 树叶 (Leaves)
+Evidence (Leaves)
 ```
 
 ### Gan Method Content Model
 
 **Structure:**
-1. **Core viewpoint** (树干)
-2. **Sub-arguments** (树枝)
-3. **Evidence** (树叶) - Must be:
-   - Unexpected (出乎意料)
-   - Memorable (印象深刻)
-   - Vivid (生动鲜活)
+1. **Core viewpoint** (Trunk)
+2. **Sub-arguments** (Branches)
+3. **Evidence** (Leaves) - Must be:
+   - Unexpected
+   - Memorable
+   - Vivid
 
 **Quality check:** A good 15-min video or well-evidenced article = a tree with lush branches and leaves.
 
 ## Platform-Specific Applications
 
-### 小红书 (Xiaohongshu)
+### Xiaohongshu (Little Red Book)
 **Best formats:**
-- WoW-type titles: "00后 AI 工具月入10万"
-- How-type for tutorials: "5个 AI 工具提效10倍"
+- WoW-type titles: "Gen-Z AI tools $100K/month"
+- How-type for tutorials: "5 AI tools for 10x efficiency"
 
 **Structure:**
 1. Hook (5-10s): WoW statement
-2. Pain point (10-15s): "你是不是也遇到..."
+2. Pain point (10-15s): "Are you also facing..."
 3. Solution (120-180s): Step-by-step with demos
 4. Results (20-30s): Proof
-5. CTA (5-10s): "关注我，持续分享"
+5. CTA (5-10s): "Follow for more"
 
 ### X (Twitter)
 **Best formats:**
-- Start with puzzle: "你知道为什么 90% 的人用 AI 工具都失败吗？"
+- Start with puzzle: "Do you know why 90% of people fail with AI tools?"
 - Then reveal answer in thread
 
 **Structure:**
@@ -168,6 +168,6 @@ Before finalizing content:
 
 ## References
 
-- 《写作是门手艺》- "问题是文章的引擎"
+- "Writing is a Craft" - "Questions are the engine of articles"
 - Gan Method - Content tree structure
 - WoW Psychology - Extreme case engagement mechanics
