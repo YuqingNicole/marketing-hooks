@@ -1,5 +1,17 @@
 # Threads 写作技巧与内容策略
 
+## Nicole 的实战数据（真实互动，2026-04）
+
+| 内容类型 | 代表帖子 | ❤️ | 💬 |
+|----------|---------|-----|-----|
+| 🥇 争议性观点+论据展开 | "AI ending the elite system" | 39 | 23 |
+| 🥈 颠覆认知一句话 | "Github is the new Substack" | 32 | 10 |
+| 🥉 互动型问句 | "Try to sell me in 5 words" | 16 | 78 |
+| ✅ 工具实战 | "10 hidden Claude Code commands" | 9 | 6 |
+| ❌ 哲理金句 | "Possibility brings beauty" | 0 | 0 |
+
+**结论：争议性观点+展开 >> 互动问句 >> 工具内容 >>> 金句**
+
 ## 平台特点
 
 - **字数限制**：500字符/条（英文）
